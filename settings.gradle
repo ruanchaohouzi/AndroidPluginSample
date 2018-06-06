@@ -1,0 +1,1 @@
+include ':plugin-app', ':app', ':plugin-interface', ':main-hook-app2', ':plugin-hook-app2', ':hookdemo'
